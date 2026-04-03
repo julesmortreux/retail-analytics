@@ -4,7 +4,9 @@
 
 Analyzes e-commerce transaction data (Online Retail II dataset, 800K+ transactions) to help marketing teams understand customer behavior, identify high-value segments, simulate retention scenarios, and export actionable activation lists.
 
-> **[Live Demo](https://retail-analytics-dashboard.streamlit.app)** (Streamlit Cloud)
+> **[Live Demo](https://retail-analytics-rqmbnwg4fbwyqgoqfv6zsk.streamlit.app)** (Streamlit Cloud)
+
+![KPIs Overview](docs/screenshots/kpis-overview.png)
 
 ---
 
@@ -15,6 +17,8 @@ Monthly and quarterly revenue trends, country breakdown, key business metrics at
 
 ### Cohort Analysis
 Retention heatmaps by acquisition cohort - track how customer groups behave over time and identify when churn happens.
+
+![Cohort Analysis](docs/screenshots/cohort-analysis.png)
 
 ### RFM Segmentation
 Segment customers by Recency, Frequency, and Monetary value. Identify Champions, At-Risk, Lost customers, and everything in between with interactive treemaps and distribution plots.
